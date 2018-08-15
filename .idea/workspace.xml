@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6457413-7cfe-42a1-9bbe-91f8131bee80" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Stu_Console_IO/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_Ins_Functions_Demo/Functions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_00HelloWorld/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_01_Ins_Console_IO_Demo/ConsoleIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_02_Stu_Console_IO/ConsoleIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_03_Ins_Arrays_Maps_Conditions_Demo/ArrayLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_03_Ins_Arrays_Maps_Conditions_Demo/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_03_Ins_Arrays_Maps_Conditions_Demo/Conditionals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaActivities/_03_Ins_Arrays_Maps_Conditions_Demo/HashMaps.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,83 +17,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_00HelloWorld/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsoleIO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_01_Ins_Console_IO_Demo/ConsoleIO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsoleIO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/ConsoleIO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/ArrayLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conditionals.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/Conditionals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMaps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/HashMaps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ConsoleIO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/ConsoleIO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-51">
+                <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_05_Ins_Functions_Demo/Functions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="68">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#1538#1539#0" expanded="true" />
+                <element signature="e#1566#1567#0" expanded="true" />
+                <element signature="e#2195#2196#0" expanded="true" />
+                <element signature="e#2276#2277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -129,6 +90,9 @@
         <option value="$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/HashMaps.java" />
         <option value="$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/ConsoleIO.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/README.md" />
+        <option value="$PROJECT_DIR$/src/_02_Stu_Console_IO/README.md" />
+        <option value="$PROJECT_DIR$/src/_05_Ins_Functions_Demo/Functions.java" />
       </list>
     </option>
   </component>
@@ -165,7 +129,7 @@
             <path>
               <item name="JavaActivities" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaActivities" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaActivities" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +140,7 @@
               <item name="JavaActivities" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaActivities" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_00HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_Ins_Functions_Demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Functions">
     <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_03_Ins_Arrays_Maps_Conditions_Demo.ArrayLists" />
       <module name="JavaActivities" />
@@ -222,12 +186,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ConsoleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Ins_Console_IO_Demo.ConsoleIO" />
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05_Ins_Functions_Demo.Functions" />
       <module name="JavaActivities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_Ins_Console_IO_Demo.*" />
+          <option name="PATTERN" value="_05_Ins_Functions_Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,18 +215,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ConsoleIO" />
       <item itemvalue="Application.ArrayLists" />
       <item itemvalue="Application.Conditionals" />
       <item itemvalue="Application.HashMaps" />
+      <item itemvalue="Application.Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HashMaps" />
         <item itemvalue="Application.Conditionals" />
         <item itemvalue="Application.ArrayLists" />
-        <item itemvalue="Application.ConsoleIO" />
       </list>
     </recent_temporary>
   </component>
@@ -276,12 +240,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534301294581</updated>
-      <workItem from="1534301295819" duration="1547000" />
+      <workItem from="1534301295819" duration="2693000" />
     </task>
+    <task id="LOCAL-00001" summary="Added .gitignore">
+      <created>1534302869401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534302869401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1547000" />
+    <option name="totallyTimeSpent" value="2693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="143" y="17" width="1515" height="1000" extended-state="0" />
@@ -322,6 +294,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_00HelloWorld/Main.java">
@@ -380,17 +356,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/ConsoleIO.java">
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state>
+          <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/ConsoleIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-51">
+            <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05_Ins_Functions_Demo/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+            <element signature="e#2195#2196#0" expanded="true" />
+            <element signature="e#2276#2277#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
