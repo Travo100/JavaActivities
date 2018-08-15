@@ -1,133 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/AnimalOld.java" description="package com.examples;" line="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6457413-7cfe-42a1-9bbe-91f8131bee80" name="Default" comment="Added Subclasses Exercise">
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java" afterDir="false" />
+    <list default="true" id="8e593589-193e-4110-b6b2-70fc6f965f88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaActivities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaActivities.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1767680912">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              </first_editor>
-              <second_editor />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_00HelloWorld/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestPolygon.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/AnimalOld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Polygon.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,77 +124,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWorld/Main.java" />
-        <option value="$PROJECT_DIR$/src/_00HelloWorld/Main.java" />
-        <option value="$PROJECT_DIR$/src/_01_Ins_Console_IO_Demo/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_02_Stu_Console_IO/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/ArrayLists.java" />
-        <option value="$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/Arrays.java" />
-        <option value="$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/Conditionals.java" />
-        <option value="$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/HashMaps.java" />
-        <option value="$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/README.md" />
-        <option value="$PROJECT_DIR$/src/_02_Stu_Console_IO/README.md" />
-        <option value="$PROJECT_DIR$/src/_05_Ins_Functions_Demo/Functions.java" />
-        <option value="$PROJECT_DIR$/src/_06_Stu_Functions/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_06_Stu_Functions/README.md" />
-        <option value="$PROJECT_DIR$/src/_07_Ins_Classes_And_Objects_Demo/Classes.java" />
-        <option value="$PROJECT_DIR$/src/_07_Ins_Classes_And_Objects_Demo/User.java" />
-        <option value="$PROJECT_DIR$/src/_02_Stu_Console_IO/Solved/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/Solved/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_06_Stu_Functions/Unsolved/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_06_Stu_Functions/Solved/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Unsolved/README.md" />
-        <option value="$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Unsolved/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/ConsoleIO.java" />
-        <option value="$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/Roster.java" />
-        <option value="$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/Student.java" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/README.md" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Square.java" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Test.java" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Square.java" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Test.java" />
-        <option value="$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Animal.java" />
-        <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Cat.java" />
-        <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Dog.java" />
-        <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Test.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java" />
-        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Pet.java" />
+        <option value="$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Animal.java" />
+        <option value="$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/AnimalOld.java" />
+        <option value="$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Cat.java" />
+        <option value="$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Dog.java" />
+        <option value="$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Test.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
-    <option name="y" value="41" />
-    <option name="width" value="1515" />
-    <option name="height" value="1000" />
+    <option name="x" value="44" />
+    <option name="y" value="23" />
+    <option name="width" value="1235" />
+    <option name="height" value="851" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,20 +161,18 @@
               <item name="JavaActivities" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaActivities" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_11_Stu_Subclasses" type="462c0819:PsiDirectoryNode" />
+              <item name="_12_Ins_Interfaces_Demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534366449993" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,81 +186,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestPolygon">
-    <configuration name="ConsoleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_Stu_Arrays_Maps_Conditions.Unsolved.ConsoleIO" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_00HelloWorld.Main" />
       <module name="JavaActivities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_04_Stu_Arrays_Maps_Conditions.Unsolved.*" />
+          <option name="PATTERN" value="_00HelloWorld.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_09_Stu_Shapes.Solved.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_Ins_Interfaces_Demo.Test" />
       <module name="JavaActivities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_09_Stu_Shapes.Solved.*" />
+          <option name="PATTERN" value="_12_Ins_Interfaces_Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_Ins_Subclasses_Demo.Test" />
-      <module name="JavaActivities" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_10_Ins_Subclasses_Demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_Stu_Subclasses.Unsolved.Test" />
-      <module name="JavaActivities" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_11_Stu_Subclasses.Unsolved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_Stu_Subclasses.Solved.Test" />
-      <module name="JavaActivities" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_11_Stu_Subclasses.Solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_Stu_Subclasses.Solved.TestPolygon" />
-      <module name="JavaActivities" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_11_Stu_Subclasses.Solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test (4)" />
-      <item itemvalue="Application.TestPolygon" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestPolygon" />
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -332,518 +229,114 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a6457413-7cfe-42a1-9bbe-91f8131bee80" name="Default" comment="" />
-      <created>1534301294581</created>
+      <changelist id="8e593589-193e-4110-b6b2-70fc6f965f88" name="Default Changelist" comment="" />
+      <created>1534366076721</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534301294581</updated>
-      <workItem from="1534301295819" duration="4546000" />
-      <workItem from="1534307174135" duration="1175000" />
+      <updated>1534366076721</updated>
     </task>
-    <task id="LOCAL-00001" summary="Added .gitignore">
-      <created>1534302869401</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1534302869401</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added Functions">
-      <created>1534304015870</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1534304015870</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added classes demo and exercises">
-      <created>1534305680621</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1534305680621</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added Subclasses">
-      <created>1534307996398</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1534307996398</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5721000" />
-  </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="41" width="1515" height="1000" extended-state="0" />
+    <frame x="44" y="23" width="1235" height="851" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299435" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23082055" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32938075" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added .gitignore" />
-    <MESSAGE value="Added Functions" />
-    <MESSAGE value="Added classes demo and exercises" />
-    <MESSAGE value="Added Subclasses" />
-    <MESSAGE value="Added Subclasses Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Subclasses Exercise" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/BiConsumer.java">
+    <entry file="file://$PROJECT_DIR$/src/_00HelloWorld/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/HashMaps.java">
+    <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+    <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/AnimalOld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_05_Ins_Functions_Demo/Functions.java">
+    <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1566#1567#0" expanded="true" />
-            <element signature="e#2195#2196#0" expanded="true" />
-            <element signature="e#2276#2277#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-51">
-            <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_07_Ins_Classes_And_Objects_Demo/Classes.java">
+    <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_07_Ins_Classes_And_Objects_Demo/User.java">
+    <entry file="file://$PROJECT_DIR$/src/_12_Ins_Interfaces_Demo/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
-            <element signature="e#1651#1652#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-            <element signature="e#1827#1828#0" expanded="true" />
-            <element signature="e#1980#1981#0" expanded="true" />
-            <element signature="e#2014#2015#0" expanded="true" />
-            <element signature="e#2045#2046#0" expanded="true" />
-            <element signature="e#2131#2132#0" expanded="true" />
-            <element signature="e#2235#2236#0" expanded="true" />
-            <element signature="e#2276#2277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/Unsolved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/Unsolved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_04_Stu_Arrays_Maps_Conditions/Solved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_01_Ins_Console_IO_Demo/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/Solved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_06_Stu_Functions/Unsolved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_06_Stu_Functions/Solved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_06_Stu_Functions/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/Roster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Unsolved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="96" column="47" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1610#1611#0" expanded="true" />
-            <element signature="e#1662#1663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
