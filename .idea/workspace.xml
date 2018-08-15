@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6457413-7cfe-42a1-9bbe-91f8131bee80" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Triangle.java" afterDir="false" />
+    <list default="true" id="a6457413-7cfe-42a1-9bbe-91f8131bee80" name="Default" comment="Added Subclasses Exercise">
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,119 +24,98 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="408">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Test.java">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="340">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Square.java">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestPolygon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding>
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-              </folding>
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Polygon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Solved/Triangle.java">
+        <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding>
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_09_Stu_Shapes/Unsolved/Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding>
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -190,6 +172,16 @@
         <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Cat.java" />
         <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Dog.java" />
         <option value="$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java" />
+        <option value="$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java" />
       </list>
     </option>
   </component>
@@ -230,7 +222,7 @@
               <item name="JavaActivities" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaActivities" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_10_Ins_Subclasses_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="_11_Stu_Subclasses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,27 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="ConsoleIO (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_Stu_Console_IO.Unsolved.ConsoleIO" />
-      <module name="JavaActivities" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_02_Stu_Console_IO.Unsolved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ConsoleIO (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_Stu_Classes_And_Objects.Solved.ConsoleIO" />
-      <module name="JavaActivities" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_08_Stu_Classes_And_Objects.Solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.TestPolygon">
     <configuration name="ConsoleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_04_Stu_Arrays_Maps_Conditions.Unsolved.ConsoleIO" />
       <module name="JavaActivities" />
@@ -308,30 +280,50 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_09_Stu_Shapes.Unsolved.Test" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Stu_Subclasses.Unsolved.Test" />
       <module name="JavaActivities" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_09_Stu_Shapes.Unsolved.*" />
+          <option name="PATTERN" value="_11_Stu_Subclasses.Unsolved.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Stu_Subclasses.Solved.Test" />
+      <module name="JavaActivities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11_Stu_Subclasses.Solved.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Stu_Subclasses.Solved.TestPolygon" />
+      <module name="JavaActivities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11_Stu_Subclasses.Solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.ConsoleIO (1)" />
-      <item itemvalue="Application.ConsoleIO (2)" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.TestPolygon" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPolygon" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ConsoleIO (2)" />
-        <item itemvalue="Application.ConsoleIO (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +338,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534301294581</updated>
       <workItem from="1534301295819" duration="4546000" />
-      <workItem from="1534307174135" duration="763000" />
+      <workItem from="1534307174135" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="Added .gitignore">
       <created>1534302869401</created>
@@ -369,14 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534305680621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Subclasses">
+      <created>1534307996398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534307996398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5309000" />
+    <option name="totallyTimeSpent" value="5721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="153" y="239" width="1515" height="1000" extended-state="0" />
+    <frame x="232" y="41" width="1515" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -419,93 +418,11 @@
     <MESSAGE value="Added .gitignore" />
     <MESSAGE value="Added Functions" />
     <MESSAGE value="Added classes demo and exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added classes demo and exercises" />
+    <MESSAGE value="Added Subclasses" />
+    <MESSAGE value="Added Subclasses Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Subclasses Exercise" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/Roster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/Solved/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_Stu_Console_IO/Solved/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_01_Ins_Console_IO_Demo/ConsoleIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_08_Stu_Classes_And_Objects/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_00HelloWorld/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/ArrayLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_03_Ins_Arrays_Maps_Conditions_Demo/Conditionals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/BiConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -847,8 +764,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_10_Ins_Subclasses_Demo/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Unsolved/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/Solved/TestPolygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_Stu_Subclasses/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
