@@ -1,4 +1,4 @@
-package _04_Stu_Arrays_Maps_Conditions;
+package _04_Stu_Arrays_Maps_Conditions.Unsolved;
 
 // You need to import the HashMap type. How does that import statement look?
 

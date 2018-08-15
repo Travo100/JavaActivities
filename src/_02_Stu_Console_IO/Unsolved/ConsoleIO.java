@@ -1,4 +1,4 @@
-package _02_Stu_Console_IO;
+package _02_Stu_Console_IO.Unsolved;
 
 import java.util.Scanner;
 
