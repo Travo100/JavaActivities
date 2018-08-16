@@ -10,7 +10,7 @@ class PDF implements Printable {
 
   @Override public int getPageCount () {
     // Do complicated calculation based on viewport size and length
-    return 10;
+    return 10; // just satisfying the return so the code will compile
   }
 
   @Override public void print () {
